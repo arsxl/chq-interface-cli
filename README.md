@@ -21,7 +21,7 @@
 The CodersHQ Interface project aims to build an interface to work with the backend of the project, this is through a Command Line Interface, which will be used to perform various tasks.</p>
 
 <h3 id="cli">:man_technologist: Command Line Interface</h3>
-<p> The Command Line Interface should be a quick method for accessing core and administrator functionality, the interface should be cool and quick to work with. Look at the following Github Repo to get inspiration for the CLI Interface <a href="https://github.com/shadawck/awesome-cli-frameworks" target="_blank">Click Here!</a>
+<p> The Command Line Interface should be a quick method for accessing core and administrator functionality, the interface should be well made and quick to work with. Look at the following Github Repo to get inspiration for the CLI Interface <a href="https://github.com/shadawck/awesome-cli-frameworks" target="_blank">Click Here!</a>
 
 (The interface team is not responsible for any backend code.)</p>
 
